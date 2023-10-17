@@ -1,0 +1,4 @@
+is_global = true
+build_property.OutputType = Library
+build_property.TargetFrameworkIdentifier = MonoAndroid
+build_property.RootNamespace = Sample.Droid

@@ -1,0 +1,6 @@
+is_global = true
+build_property.OutputType = Library
+build_property.TargetFrameworkIdentifier = .NETStandard
+build_property.RootNamespace = Sample
+build_property.RootNamespace = Sample
+build_property.ProjectDir = E:\Practices\Xamarin Practices\ShinyPractice\BluetoothLE-Client\Sample\
